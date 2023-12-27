@@ -17,18 +17,18 @@ QubitForce, for a "Quantum-centric Supercomputing for Smart Cities" competition
 
 2. QuantumAlgos
 - errorM.py , Error mitigation techniques code for Grover
-- grover.py , code for grover combined with errorM.pu
-- qaoa.py , code for qaoa
+- grover.py , Code for grover combined with errorM.pu
+- qaoa.py , Code for qaoa
 
 3. qiskitsample.py
-- initialization and implementation of qiskit
+- Initialization and implementation of qiskit
 
 4. README_results.md
 - Analyzing results of our algorithm with IBMQ
 
 5. README_quantumalgos.md
 
-## WHY QUANTUM????
+## Why did we choose Quantum Computing?
 
 1. Hybrid Quantum-Classical Ensembles:
 Combining predictions from both quantum and classical algorithms could be beneficial. For example, certain problems might be solved more accurately with quantum algorithms, while others are more suited for classical algorithms.
