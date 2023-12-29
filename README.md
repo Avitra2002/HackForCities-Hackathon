@@ -1,9 +1,12 @@
 # Hack for Cities 2023
 QubitForce, for a "Quantum-centric Supercomputing for Smart Cities" competition
 
-[Link to our technical flowchart](https://www.canva.com/design/DAFtgmUGEhI/1p6rIi220_9FIIAJnlQx4Q/edit?utm_content=DAFtgmUGEhI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Link to our technical flowchart](https://github.com/Avitra2002/HackForCities-Hackathon/files/13792218/page.1.2.sides.pdf)
 
 [Link to our final presentation slides](https://www.canva.com/design/DAFuRvF0jII/T86rOhQR113hUjc3HHFTKw/edit?utm_content=DAFuRvF0jII&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+[Link to our final report](https://github.com/Avitra2002/HackForCities-Hackathon/files/13792220/FINAL.report.docx.pdf)
+
 
 ## Meet the Team:
 
